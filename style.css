@@ -1,0 +1,30 @@
+.bg-img{
+    background-image: url(um.webp);
+    min-height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.container{
+    position: center;
+    margin: 10px;
+    width: auto;
+    color: antiquewhite;
+
+}
+.topnav a{
+
+    color: aliceblue;
+    text-align: center;
+    padding: 15px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    color: wheat;
+
+}
+.topnav a:hover{
+    background-color: brown;
+    color: white;
+}
+
